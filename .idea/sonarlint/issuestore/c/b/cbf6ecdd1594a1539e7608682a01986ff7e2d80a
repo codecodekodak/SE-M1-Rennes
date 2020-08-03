@@ -1,0 +1,36 @@
+
+\
+squid:S106§"9Replace this use of System.out or System.err by a logger.(­Ğò¼ÿÿÿÿÿ8Ãı¨¸è,
+;squid:S1643†"Use a StringBuilder instead.(ö§ÆË8Ãı¨¸è,
+;squid:S1643î"Use a StringBuilder instead.(€İŞş8Ãı¨¸è,
+Msquid:S1066÷"/Merge this if statement with the enclosing one.(Í« #8Ãı¨¸è,
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ëÄ£´8Ãı¨¸è,
+W
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(ÃÚÀ8Ãı¨¸è,
+;squid:S1643é"Use a StringBuilder instead.(ŠĞè 8Ãı¨¸è,
+\
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(Î›Îüÿÿÿÿ8Ãı¨¸è,
+\
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8Ãı¨¸è,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(°èœÖÿÿÿÿÿ8Ãı¨¸è,
+isquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(ù¬ı÷8Ãı¨¸è,
+vsquid:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ßÔü²şÿÿÿÿ8Ãı¨¸è,
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(çÙĞáüÿÿÿÿ8Ãı¨¸è,
+V
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(‰ø÷y8Ãı¨¸è,
+@squid:S1643„"Use a StringBuilder instead.(“ªøÊøÿÿÿÿ8Ãı¨¸è,
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ÍØÎûÿÿÿÿ8Ãı¨¸è,
+@squid:S1643ú"Use a StringBuilder instead.(ìÁ¨ûÿÿÿÿ8Ãı¨¸è,
+@squid:S1643‚"Use a StringBuilder instead.(€Ğ°Ëüÿÿÿÿ8Ãı¨¸è,
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÎİÑò8Ãı¨¸è,
+;squid:S1643"Use a StringBuilder instead.(ŠĞè 8Ãı¨¸è,
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Èãš½ÿÿÿÿÿ8Ãı¨¸è,
+W
+squid:S106£"9Replace this use of System.out or System.err by a logger.(¯Û«ø8Ãı¨¸è,
+;squid:S1643ù"Use a StringBuilder instead.(ÈÊ™8Ãı¨¸è,
+;squid:S1643“"Use a StringBuilder instead.(€İŞş8Ãı¨¸è,

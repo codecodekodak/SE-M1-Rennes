@@ -1,0 +1,9 @@
+
+jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(äþ©î8öí…½è,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(þï§÷8§“¡½è,
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù»›§ûÿÿÿÿ8€”‡½è,
+V
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¯˜…À8Ä°–½è,
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äþ©î8öí…½è,
+osquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ù»›§ûÿÿÿÿ8€”‡½è,

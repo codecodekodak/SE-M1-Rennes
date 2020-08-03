@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="M1Airlines">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AirSimulation/M1Airlines.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
